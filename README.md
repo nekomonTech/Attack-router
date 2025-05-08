@@ -13,6 +13,10 @@ pkg install git
 ```bash
 pkg install python
 ```
+***Install Pip***
+```bash
+pip install request 
+```
 ***Clone Github***
 ```bash
 git clone https://github.com/nekomonTech/Attack-router
