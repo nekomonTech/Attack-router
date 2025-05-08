@@ -5,10 +5,20 @@
 - darkrouter (vip)
 
 ## Install Package
+***Install Git***
 ```bash
 pkg install git
+```
+***Install Python***
+```bash
 pkg install python
+```
+***Clone Github***
+```bash
 git clone https://github.com/nekomonTech/Attack-router
+```
+***Akses Program***
+```bash
 cd Attack-router
 ```
 ## Jalankan program
